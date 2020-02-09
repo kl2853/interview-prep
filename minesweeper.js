@@ -1,3 +1,5 @@
+/* Implement the classic game Minesweeper in the console. */
+
 function makeGrid(level) {
     let dimension = 0;
     let grid = "\n                   ";
